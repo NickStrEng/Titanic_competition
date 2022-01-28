@@ -1,2 +1,2 @@
 # Titanic_competition
-Jupyter notebook for Kaggle's Titanic dataset
+Jupyter notebook that models classification algorithms to tackle Kaggle's Titanic dataset
